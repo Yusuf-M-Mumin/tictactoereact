@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/tictactoelab/static/js/main.adcfd294.js",
-    "index.html": "/tictactoelab/index.html",
-    "main.adcfd294.js.map": "/tictactoelab/static/js/main.adcfd294.js.map"
+    "main.js": "/tictactoereact/static/js/main.adcfd294.js",
+    "index.html": "/tictactoereact/index.html",
+    "main.adcfd294.js.map": "/tictactoereact/static/js/main.adcfd294.js.map"
   },
   "entrypoints": [
     "static/js/main.adcfd294.js"
